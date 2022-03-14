@@ -1,2 +1,2 @@
-Vending Machine With Ethereum Samrt Contract
+Vending Machine With Ethereum Smart Contract
 -------------------------
